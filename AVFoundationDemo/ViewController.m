@@ -18,6 +18,8 @@
 
     NSLog(@"test1");
     
+    NSLog(@"0.0.1");
+    
     NSLog(@"test2");
 }
 
