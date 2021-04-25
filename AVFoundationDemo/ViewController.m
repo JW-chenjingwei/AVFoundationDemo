@@ -17,6 +17,8 @@
     [super viewDidLoad];
 
     NSLog(@"test1");
+    
+    NSLog(@"0.0.1");
 }
 
 
