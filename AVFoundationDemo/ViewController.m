@@ -17,6 +17,8 @@
     [super viewDidLoad];
 
     NSLog(@"test1");
+    
+    NSLog(@"test2");
 }
 
 
